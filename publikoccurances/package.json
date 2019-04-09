@@ -1,0 +1,41 @@
+{
+  "name": "publikoccurances",
+  "version": "0.9.1690",
+  "description": "a community driven truly free media",
+  "private": true,
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "2.1.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VariableDeclared/publikoccurances.git"
+  },
+  "keywords": [
+    "media",
+    "news",
+    "community"
+  ],
+  "author": "Richard Pierce",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VariableDeclared/publikoccurances/issues"
+  },
+  "homepage": "https://github.com/VariableDeclared/publikoccurances#readme"
+}
